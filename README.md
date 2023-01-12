@@ -9,39 +9,8 @@
 
 ## Software History
 
-**PaSR-SDE** is the result of a master's thesis:
-
-- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010 https://doi.org/10.17771/PUCRio.acad.17685*
- 
-The PDF of this thesis is available for free at: https://hal.archives-ouvertes.fr/tel-01541173
-
-The results of this thesis were disclosed in the following publication:
-
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014 http://dx.doi.org/10.1007/s40430-013-0080-4* 
- 
-The PDF of this article is available for free at: https://hal.archives-ouvertes.fr/hal-01438646
-
-## Program Execution
-
-
-## External Dependencies
-
-#### CRFlowLib-1.0 - the original implementation
-
-* GNU Scientific Library 1.12 (open source) --- https://www.gnu.org/software/gsl/
-* CVODE 2.5.0, which is part of SUNDIALS 2.3.0 (open source) --- https://computing.llnl.gov/projects/sundials
-* Chenkin-II (proprietary software) --- Once this code is proprietary, you need to obtain its routines by yourself.
-
-The following Chenkin-II libraries are necessary:
- - cklib.f
- - ckinterp.f
- - ckstrt.h
-
-## Reaction Mechanisms (CK-II format)
-
-This repository stores a collection of thermochemistry mechanisms in Chemkin-II format. These kinetic mechanisms were developed by several research groups that works in the simulation of chemically reactive flows. This collection is the result of more than 15 years of search. All of these mechanisms were made available, at some time, on the Internet or in specialized literature. 
-
-The repository owner makes them available here with the intention that they may be useful for researchers interested in the topic. Unfortunately, no guarantee can be given regarding the integrity of the files or the accuracy of the mechanisms. Use it at your own risk!
+**PaSR-SDE** development started in the master thesis of the first author and continued over the next decade. The results of the thesis were disclosed in the following publication:
+- *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
 
 ## Reproducibility
 
@@ -54,7 +23,7 @@ Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on thi
 ## Citing PaSR-SDE
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
-- *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*  
+- *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
 
 ```
 @article{Orbegoso2009p1595,
@@ -65,17 +34,6 @@ We kindly ask users to cite the following references in any publications reporti
    volume  = {32},
    pages   = {1595-1603},
    doi     = {10.1016/j.proci.2008.06.008},
-}
-```
-
-```
-@mastersthesis{CunhaJr2010msc,
-   author       = {E. M. Orbegoso}, 
-   title        = {},
-   school       = {PUC-Rio},
-   year         = {2007},
-   address      = {Rio de Janeiro},
-   note         = {https://doi.org/10.17771/PUCRio.acad.17685},
 }
 ```
 
