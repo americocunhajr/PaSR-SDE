@@ -6,7 +6,6 @@
 
 **PaSR-SDE** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
 
-
 ## Software History
 
 **PaSR-SDE** development started in the master thesis of the first author and continued over the next decade. The results of the thesis were disclosed in the following publication:
@@ -17,8 +16,8 @@
 Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/xxx" target="_blank">CodeOcean capsule</a>
 
 ## Authors
-- Elder Marino Mendoza Orbegoso (PUC-Rio)
-- Americo Cunha (UERJ)
+- Elder Mendoza Orbegoso (UNT)
+- Americo Cunha Jr (UERJ)
 
 ## Citing PaSR-SDE
 
@@ -45,7 +44,7 @@ We kindly ask users to cite the following references in any publications reporti
 
 ## Institutional support
 
-<img src="logo/logo_pucrio_color.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%">
+<img src="logo/logo_unt_color.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_pucrio_color.jpg" width="07%"> 
 
 ## Funding
 
