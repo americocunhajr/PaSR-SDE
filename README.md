@@ -48,46 +48,32 @@ The repository owner makes them available here with the intention that they may 
 Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/xxx" target="_blank">CodeOcean capsule</a>
 
 ## Authors
+- Elder Marino Mendoza Orbegoso (PUC-Rio)
 - Americo Cunha (UERJ)
-- Luis Fernando Figueira da Silva (PUC-Rio)
 
-## Citing CRFlowLib
+## Citing PaSR-SDE
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
-- *A. Cunha Jr and L. F. Figueira da Silva, CRFlowLib --- Chemically Reacting Flow Library, Software Impacts, v. 11, pp. 100206, 2022 https://doi.org/10.1016/j.simpa.2021.100206*
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014 http://dx.doi.org/10.1007/s40430-013-0080-4*  
-- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010 https://doi.org/10.17771/PUCRio.acad.17685*
+- *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*  
 
 ```
-@article{CunhaJr2022p100206,
-   author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
-   title   = {CRFlowLib --- Chemically Reacting Flow Library},
-   journal = {Software Impacts},
-   year    = {2022},
-   volume  = {11},
-   pages   = {100206},
-   doi     = {https://doi.org/10.1016/j.simpa.2021.100206},
-}
-```
-
-```
-@article{CunhaJr2014p377,
-   author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
-   title   = {Assessment of a transient homogeneous reactor through in situ adaptive tabulation},
-   journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
-   year    = {2014},
-   volume  = {36},
-   pages   = {377-391},
-   doi     = {http://dx.doi.org/10.1007/s40430-013-0080-4},
+@article{Orbegoso2009p1595,
+   author  = {E. M. Orbegoso and L. F. {Figueira da Silva}},
+   title   = {Study of stochastic mixing models for combustion in turbulent flows},
+   journal = {Proceedings of the Combustion Institute},
+   year    = {2009},
+   volume  = {32},
+   pages   = {1595-1603},
+   doi     = {10.1016/j.proci.2008.06.008},
 }
 ```
 
 ```
 @mastersthesis{CunhaJr2010msc,
-   author       = {A. {Cunha~Jr}}, 
-   title        = {Reduction of Complexity in Combustion Thermochemistry},
+   author       = {E. M. Orbegoso}, 
+   title        = {},
    school       = {PUC-Rio},
-   year         = {2010},
+   year         = {2007},
    address      = {Rio de Janeiro},
    note         = {https://doi.org/10.17771/PUCRio.acad.17685},
 }
