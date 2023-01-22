@@ -19,12 +19,14 @@ Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on thi
 
 ## Authors
 - Elder Mendoza Orbegoso (UNT)
+- Luis Fernando Figueira da Silva (PUC-Rio)
 - Americo Cunha Jr (UERJ)
 
 ## Citing PaSR-SDE
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 - *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
+- *E. M. Orbegoso, L. F. Figueira da Silva and A. Cunha Jr, PaSR-SDE: A Matlab Package for Premixed Turbulent Combustion Stochastic Mixing Models, 2023*
 
 ```
 @article{Orbegoso2009p1595,
@@ -35,6 +37,18 @@ We kindly ask users to cite the following references in any publications reporti
    volume  = {32},
    pages   = {1595-1603},
    doi     = {10.1016/j.proci.2008.06.008},
+}
+```
+
+```
+@article{Orbegoso2023,
+   author  = {E. M. Orbegoso and L. F. {Figueira da Silva} and A. {Cunha~Jr}},
+   title   = {PaSR-SDE: A Matlab Package for Premixed Turbulent Combustion Stochastic Mixing Models},
+   journal = {~},
+   year    = {2023},
+   volume  = {~},
+   pages   = {~},
+   doi     = {~},
 }
 ```
 
