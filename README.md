@@ -8,8 +8,10 @@
 
 ## Software History
 
-**PaSR-SDE** development started in the master thesis of the first author and continued over the next decade. The results of the thesis were disclosed in the following publication:
+**PaSR-SDE** development started in the master thesis in 2007 of the first author with results disclosed in the following publication:
 - *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
+
+The development resumed in 2023 with the last author updating the code to make it compatible with newer versions of Matlab.
 
 ## Reproducibility
 
