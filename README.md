@@ -19,7 +19,7 @@ Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on thi
 
 ## Authors
 - Elder Mendoza Orbegoso (UNT)
-- Luis Fernando Figueira da Silva (PUC-Rio)
+- Luis Fernando Figueira da Silva (PUC-Rio / Institut Pprime)
 - Americo Cunha Jr (UERJ)
 
 ## Citing PaSR-SDE
