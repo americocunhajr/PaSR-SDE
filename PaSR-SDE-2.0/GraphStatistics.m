@@ -17,6 +17,7 @@
     xlabel('<\omega_c>*t','FontSize',12);
     set(get(AX(1),'Ylabel'),'String','<\phi>');
     set(get(AX(2),'Ylabel'),'String','\sigma^2');
+    saveas(gcf,'figure4.png')
     
     % 4th and 6th order moments
     figure(5)
