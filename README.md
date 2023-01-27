@@ -41,7 +41,7 @@ We kindly ask users to cite the following references in any publications reporti
 ```
 
 ```
-@article{Orbegoso2023,
+@article{Orbegoso2023PaSR-SDE,
    author  = {E. M. Orbegoso and L. F. {Figueira da Silva} and A. {Cunha~Jr}},
    title   = "{PaSR-SDE: Premixed Turbulent Combustion with Stochastic Mixing Models Simulator}",
    journal = {~},
