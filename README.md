@@ -1,6 +1,6 @@
 <img src="logo/PaSR-SDE.png" width="40%">
 
-**PaSR-SDE: Premixed Turbulent Combustion with Stochastic Mixing Models Simulator** is a Matlab code to simulate premixed turbulent combustion in ideal reactors using stochastic mixing models.
+**PaSR-SDE: Premixed Turbulent Combustion with Stochastic Mixing Models Simulator** is a Matlab code to simulate premixed turbulent combustion in a partially stirred reactor using stochastic micro-mixing models.
 
 ## Documentation
 
