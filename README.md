@@ -15,7 +15,7 @@ The development resumed in 2023, with the last author updating the code to make 
 
 ## Reproducibility
 
-Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/0776751/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/3034874/tree/v1" target="_blank">CodeOcean capsule</a>
 
 ## Authors
 - Elder Mendoza Orbegoso (UNT)
