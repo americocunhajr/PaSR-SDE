@@ -1,28 +1,31 @@
-<img src="logo/PaSR-SDE.png" width="40%">
+## Premixed Turbulent Combustion with Stochastic Mixing Models Simulator
 
 **PaSR-SDE: Premixed Turbulent Combustion with Stochastic Mixing Models Simulator** is a Matlab code to simulate premixed turbulent combustion in a partially stirred reactor using stochastic micro-mixing models.
 
-## Documentation
+<p align="center">
+<img src="logo/PaSR.png" width="60%">
+</p>
+
+### Documentation
 
 **PaSR-SDE** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
 
-## Software History
+### Software History
 
 **PaSR-SDE** development started in the first author master thesis in 2007, under suppervision of the second author. The underlying results were disclosed in the following publication:
 - *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
 
 The development resumed in 2023, with the last author updating the code to make it compatible with newer versions of Matlab.
 
-## Reproducibility
-
+### Reproducibility
 Simulations done with **PaSR-SDE** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/3034874/tree/v1" target="_blank">CodeOcean capsule</a>
 
-## Authors
+### Authors
 - Elder Mendoza Orbegoso (UNT)
 - Luis Fernando Figueira da Silva (PUC-Rio / Institut Pprime)
 - Americo Cunha Jr (UERJ)
 
-## Citing PaSR-SDE
+### Citing PaSR-SDE
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 - *E. M. Orbegoso and L. F. Figueira da Silva, Study of stochastic mixing models for combustion in turbulent flows, Proceedings of the Combustion Institute, v. 32, pp. 1595-1603, 2009 http://dx.doi.org/10.1016/j.proci.2008.06.008*
@@ -52,16 +55,16 @@ We kindly ask users to cite the following references in any publications reporti
 }
 ```
 
-## License
+### License
 
 **PaSR-SDE** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="10%"> 
 
-## Institutional support
+### Institutional support
 
 <img src="logo/logo_unt_color.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_pucrio_color.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/logo_pprime_color.jpeg" width="15%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> 
 
-## Funding
+### Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
